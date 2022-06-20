@@ -1,2 +1,2 @@
 # audio-visualizer
-three.js & webGL audio visualizer
+three.js & webGL shader audio visualizer
